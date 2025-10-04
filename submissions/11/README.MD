@@ -78,3 +78,7 @@ There’s a need for a system that blends **AI efficiency** with **human judgmen
 - Build a mobile app for faster verification and alerts.
 
 ---
+
+## Project Presentation
+
+[View PowerPoint Presentation](https://scedu-my.sharepoint.com/:p:/r/personal/edale_miguel_seattlecolleges_edu/Documents/Presentation%2012.pptx?d=w934dff60d441415a8060fdbc8270cc45&csf=1&web=1&e=g5w4fJ)
